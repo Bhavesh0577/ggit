@@ -19,10 +19,33 @@ Hi, I'm Bhavesh Shrigiri, a CSE student at REVA University, Bengaluru. With a pa
 
 ---
 
+## 🛠️ Tech Stack
+
+- **Languages:**  
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) 
+  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
+  ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+
+- **Web Development:**  
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5) 
+  ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3) 
+  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+
+- **Database:**  
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+
+- **DevOps & Cloud:**  
+  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker) 
+  ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-aws)
+
+---
+
 ## 💻 Skills
 
-- **Programming Languages:** Python, Java, C++
-- **Technologies:** HTML, CSS, JavaScript, React, Django
+- **Programming Languages:** Python, Java, C, JavaScript
+- **Technologies:** HTML, CSS, JavaScript, React, MongoDB
 - **Tools:** Git, GitHub, Visual Studio Code
 
 ---
